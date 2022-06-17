@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\bin\Debug\Practika2_EX1.exe
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\bin\Debug\Practika2_EX1.pdb
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\App.g.cs
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1_MarkupCompile.cache
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1.g.resources
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1.Properties.Resources.resources
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1.exe
+C:\Users\Student\Desktop\Practika\Practika2_EX1\Practika2_EX1\obj\x86\Debug\Practika2_EX1.pdb
