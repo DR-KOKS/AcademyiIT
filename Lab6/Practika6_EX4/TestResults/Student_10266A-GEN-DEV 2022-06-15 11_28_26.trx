@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8c9cd3b5-70c2-48d7-9b9a-f210df8df3b5" name="Student@10266A-GEN-DEV 2022-06-15 11:28:26" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="947f455c-0ffd-4088-ab69-a8d0fd81f18c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-15 11_28_26">
+      <DeploymentItem filename="E:\Labfiles\Lab 6\Ex4\Starter\StressTest\bin\Debug\StressTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-15T11:28:26.6425078-07:00" queuing="2022-06-15T11:28:26.7802031-07:00" start="2022-06-15T11:28:26.7997343-07:00" finish="2022-06-15T11:28:26.9403593-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ToStringTest" storage="e:\labfiles\lab 6\ex4\starter\nullable structs unit test project\bin\debug\unit tests for module 6.dll" id="31fb5f85-762e-6967-40f4-c52200bfb2ba">
+      <Execution id="498085dd-5a88-4c22-b18f-149561d0ad04" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex4/Starter/Nullable Structs Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest" storage="e:\labfiles\lab 6\ex4\starter\nullable structs unit test project\bin\debug\unit tests for module 6.dll" id="1f359600-5dde-4b23-acc3-108cfa5c5af8">
+      <Execution id="40babfe6-b474-4f08-9bb6-4d99fffa0184" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex4/Starter/Nullable Structs Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest1" storage="e:\labfiles\lab 6\ex4\starter\nullable structs unit test project\bin\debug\unit tests for module 6.dll" id="6793f6b4-affe-54ca-81da-544f41857e8c">
+      <Execution id="51dc6cf4-1971-44d0-9a5f-48bd8cbe3eed" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex4/Starter/Nullable Structs Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="GetStressTestResultTest" storage="e:\labfiles\lab 6\ex4\starter\nullable structs unit test project\bin\debug\unit tests for module 6.dll" id="c11e7c1d-309d-7cbc-9c73-7685ecb0262b">
+      <Execution id="be568923-ee85-444d-9713-5b365e885c42" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex4/Starter/Nullable Structs Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetStressTestResultTest" />
+    </UnitTest>
+    <UnitTest name="PerformStressTestTest" storage="e:\labfiles\lab 6\ex4\starter\nullable structs unit test project\bin\debug\unit tests for module 6.dll" id="59439859-1717-0e5d-97d8-5e039d880f03">
+      <Execution id="7012a570-6c54-43c8-9a42-5523f558a4ee" />
+      <TestMethod codeBase="E:/Labfiles/Lab 6/Ex4/Starter/Nullable Structs Unit Test Project/bin/Debug/Unit Tests for Module 6.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab6UnitTests.StressTestCaseTest, Unit Tests for Module 6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformStressTestTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1f359600-5dde-4b23-acc3-108cfa5c5af8" executionId="40babfe6-b474-4f08-9bb6-4d99fffa0184" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31fb5f85-762e-6967-40f4-c52200bfb2ba" executionId="498085dd-5a88-4c22-b18f-149561d0ad04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59439859-1717-0e5d-97d8-5e039d880f03" executionId="7012a570-6c54-43c8-9a42-5523f558a4ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6793f6b4-affe-54ca-81da-544f41857e8c" executionId="51dc6cf4-1971-44d0-9a5f-48bd8cbe3eed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c11e7c1d-309d-7cbc-9c73-7685ecb0262b" executionId="be568923-ee85-444d-9713-5b365e885c42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="40babfe6-b474-4f08-9bb6-4d99fffa0184" testId="1f359600-5dde-4b23-acc3-108cfa5c5af8" testName="StressTestCaseConstructorTest" computerName="10266A-GEN-DEV" duration="00:00:00.0090664" startTime="2022-06-15T11:28:26.8036406-07:00" endTime="2022-06-15T11:28:26.9081328-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40babfe6-b474-4f08-9bb6-4d99fffa0184">
+    </UnitTestResult>
+    <UnitTestResult executionId="498085dd-5a88-4c22-b18f-149561d0ad04" testId="31fb5f85-762e-6967-40f4-c52200bfb2ba" testName="ToStringTest" computerName="10266A-GEN-DEV" duration="00:00:00.0002790" startTime="2022-06-15T11:28:26.9081328-07:00" endTime="2022-06-15T11:28:26.9110624-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="498085dd-5a88-4c22-b18f-149561d0ad04">
+    </UnitTestResult>
+    <UnitTestResult executionId="7012a570-6c54-43c8-9a42-5523f558a4ee" testId="59439859-1717-0e5d-97d8-5e039d880f03" testName="PerformStressTestTest" computerName="10266A-GEN-DEV" duration="00:00:00.0007917" startTime="2022-06-15T11:28:26.9110624-07:00" endTime="2022-06-15T11:28:26.9149687-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7012a570-6c54-43c8-9a42-5523f558a4ee">
+    </UnitTestResult>
+    <UnitTestResult executionId="51dc6cf4-1971-44d0-9a5f-48bd8cbe3eed" testId="6793f6b4-affe-54ca-81da-544f41857e8c" testName="StressTestCaseConstructorTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0001043" startTime="2022-06-15T11:28:26.9149687-07:00" endTime="2022-06-15T11:28:26.9169218-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51dc6cf4-1971-44d0-9a5f-48bd8cbe3eed">
+    </UnitTestResult>
+    <UnitTestResult executionId="be568923-ee85-444d-9713-5b365e885c42" testId="c11e7c1d-309d-7cbc-9c73-7685ecb0262b" testName="GetStressTestResultTest" computerName="10266A-GEN-DEV" duration="00:00:00.0001105" startTime="2022-06-15T11:28:26.9169218-07:00" endTime="2022-06-15T11:28:26.9178984-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be568923-ee85-444d-9713-5b365e885c42">
+    </UnitTestResult>
+  </Results>
+</TestRun>
