@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ba575839-9054-4fe3-a754-96ec965e28a2" name="Student@10266A-GEN-DEV 2022-06-15 02:47:34" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1ef29e91-e135-4eb5-9002-25401c6e16cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-15 02_47_34">
+      <DeploymentItem filename="E:\Labfiles\Lab 5\Ex1\Starter\FileEditor\bin\Debug\FileEditor.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-15T02:47:34.3046171-07:00" queuing="2022-06-15T02:47:34.4774687-07:00" start="2022-06-15T02:47:34.5096953-07:00" finish="2022-06-15T02:47:34.6434843-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ReadTextFileContentsTest1" storage="e:\labfiles\lab 5\ex1\starter\editor unit test project\bin\debug\module 5 unit test project.dll" id="7709e993-75d2-0164-dc05-155e9150d775">
+      <Execution id="9ca91d88-4d7a-4e7e-8627-14dc603967de" />
+      <TestMethod codeBase="E:/Labfiles/Lab 5/Ex1/Starter/Editor Unit Test Project/bin/Debug/Module 5 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab5UnitTests.TextFileOperationsTest, Module 5 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReadTextFileContentsTest1" />
+    </UnitTest>
+    <UnitTest name="WriteTextFileContentsTest1" storage="e:\labfiles\lab 5\ex1\starter\editor unit test project\bin\debug\module 5 unit test project.dll" id="aeed1db2-fd47-7bf7-a72e-4f6538c0a550">
+      <Execution id="65e89c11-64e1-4278-980b-5e3069b8862b" />
+      <TestMethod codeBase="E:/Labfiles/Lab 5/Ex1/Starter/Editor Unit Test Project/bin/Debug/Module 5 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab5UnitTests.TextFileOperationsTest, Module 5 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WriteTextFileContentsTest1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7709e993-75d2-0164-dc05-155e9150d775" executionId="9ca91d88-4d7a-4e7e-8627-14dc603967de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aeed1db2-fd47-7bf7-a72e-4f6538c0a550" executionId="65e89c11-64e1-4278-980b-5e3069b8862b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9ca91d88-4d7a-4e7e-8627-14dc603967de" testId="7709e993-75d2-0164-dc05-155e9150d775" testName="ReadTextFileContentsTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0180250" startTime="2022-06-15T02:47:34.5126249-07:00" endTime="2022-06-15T02:47:34.6210234-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ca91d88-4d7a-4e7e-8627-14dc603967de">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Move(9.23,78)
+Rotate(65.3)
+Wait(10)
+Move(1,1)
+&gt;. Actual:&lt;(null)&gt;. </Message>
+          <StackTrace>   at Lab5UnitTests.TextFileOperationsTest.ReadTextFileContentsTest1() in E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\TextFileOperationsTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="65e89c11-64e1-4278-980b-5e3069b8862b" testId="aeed1db2-fd47-7bf7-a72e-4f6538c0a550" testName="WriteTextFileContentsTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0034960" startTime="2022-06-15T02:47:34.6219999-07:00" endTime="2022-06-15T02:47:34.6268828-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65e89c11-64e1-4278-980b-5e3069b8862b">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Lab5UnitTests.TextFileOperationsTest.WriteTextFileContentsTest1 threw exception: 
+System.IO.FileNotFoundException: Could not find file 'E:\Labfiles\Lab 5\Ex1\Starter\WriteTest.txt'.</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Lab5UnitTests.TextFileOperationsTest.WriteTextFileContentsTest1() in E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\TextFileOperationsTest.cs:line 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
