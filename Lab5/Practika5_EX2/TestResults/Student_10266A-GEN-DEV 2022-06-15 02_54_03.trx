@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="576f41be-dfec-497d-aff7-5f6cd578d3c9" name="Student@10266A-GEN-DEV 2022-06-15 02:54:03" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1ef29e91-e135-4eb5-9002-25401c6e16cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-15 02_54_03">
+      <DeploymentItem filename="E:\Labfiles\Lab 5\Ex2\Starter\FileEditorXML\bin\Debug\FileEditorXML.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-15T02:54:03.2001249-07:00" queuing="2022-06-15T02:54:03.3485624-07:00" start="2022-06-15T02:54:03.3749296-07:00" finish="2022-06-15T02:54:03.5038359-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ReadAndFilterTextFileContentsTest" storage="e:\labfiles\lab 5\ex2\starter\editor unit test project\bin\debug\module 5 unit test project.dll" id="a899022d-5c16-8a41-38a7-2fd9402116cf">
+      <Execution id="362fb06f-65f0-4d28-a784-fce20b85470d" />
+      <TestMethod codeBase="E:/Labfiles/Lab 5/Ex2/Starter/Editor Unit Test Project/bin/Debug/Module 5 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab5UnitTests.TextFileOperationsTest, Module 5 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReadAndFilterTextFileContentsTest" />
+    </UnitTest>
+    <UnitTest name="WriteTextFileContentsTest1" storage="e:\labfiles\lab 5\ex2\starter\editor unit test project\bin\debug\module 5 unit test project.dll" id="aeed1db2-fd47-7bf7-a72e-4f6538c0a550">
+      <Execution id="3ba4cd38-3bf1-43c4-8f28-7b1d1b9b6eb5" />
+      <TestMethod codeBase="E:/Labfiles/Lab 5/Ex2/Starter/Editor Unit Test Project/bin/Debug/Module 5 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab5UnitTests.TextFileOperationsTest, Module 5 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WriteTextFileContentsTest1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a899022d-5c16-8a41-38a7-2fd9402116cf" executionId="362fb06f-65f0-4d28-a784-fce20b85470d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aeed1db2-fd47-7bf7-a72e-4f6538c0a550" executionId="3ba4cd38-3bf1-43c4-8f28-7b1d1b9b6eb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="362fb06f-65f0-4d28-a784-fce20b85470d" testId="a899022d-5c16-8a41-38a7-2fd9402116cf" testName="ReadAndFilterTextFileContentsTest" computerName="10266A-GEN-DEV" duration="00:00:00.0085941" startTime="2022-06-15T02:54:03.3788359-07:00" endTime="2022-06-15T02:54:03.4891874-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="362fb06f-65f0-4d28-a784-fce20b85470d">
+    </UnitTestResult>
+    <UnitTestResult executionId="3ba4cd38-3bf1-43c4-8f28-7b1d1b9b6eb5" testId="aeed1db2-fd47-7bf7-a72e-4f6538c0a550" testName="WriteTextFileContentsTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0006867" startTime="2022-06-15T02:54:03.4891874-07:00" endTime="2022-06-15T02:54:03.4911406-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ba4cd38-3bf1-43c4-8f28-7b1d1b9b6eb5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

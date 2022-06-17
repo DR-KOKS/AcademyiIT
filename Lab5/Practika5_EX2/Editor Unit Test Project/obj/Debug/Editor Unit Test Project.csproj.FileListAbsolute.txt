@@ -1,0 +1,28 @@
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Starter\Editor Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.dll
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.pdb
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex 2\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.exe
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.pdb
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\obj\Debug\Editor Unit Test Project.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+E:\Labfiles\Lab 5\Ex2\Starter\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\FileEditorXML.exe
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\FileEditorXML.pdb
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.exe
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.pdb
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\obj\Debug\Editor Unit Test Project.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+C:\Users\Student\Desktop\Practika\Lab5\Practika5_EX2\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb
