@@ -1,5 +1,0 @@
-C:\Users\Student\Desktop\Practika\Practika1_EX1\Practika1_EX1\bin\Debug\Practika1_EX1.exe
-C:\Users\Student\Desktop\Practika\Practika1_EX1\Practika1_EX1\bin\Debug\Practika1_EX1.pdb
-C:\Users\Student\Desktop\Practika\Practika1_EX1\Practika1_EX1\obj\x86\Debug\Practika1_EX1.exe
-C:\Users\Student\Desktop\Practika\Practika1_EX1\Practika1_EX1\obj\x86\Debug\Practika1_EX1.pdb
-C:\Users\Student\Desktop\Practika\Practika1_EX1\Practika1_EX1\bin\Debug\DataFile.txt
